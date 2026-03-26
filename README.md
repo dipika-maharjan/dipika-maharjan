@@ -17,5 +17,5 @@
 
 ### 📫 Reach Me
 - Portfolio: https://dipikamaharjan.com.np  
-- Email: maharjandipika49@example.com  
+- Email: maharjandipika49@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/dipika-maharjan-50b019291/
