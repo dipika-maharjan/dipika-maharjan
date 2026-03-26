@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hey, I’m Dipika Maharjan 👋
 
-<!--
-**dipika-maharjan/dipika-maharjan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering undergraduate  
+💻 Building web and mobile applications  
 
-Here are some ideas to get you started:
+### 🚀 Currently
+- Working on projects using React and Flutter  
+- Strengthening frontend and full-stack skills  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- JavaScript, React, Flutter  
+- HTML, CSS  
+- REST APIs, Git, GitHub  
+
+### 📫 Reach Me
+- Portfolio: https://dipikamaharjan.com.np/
+- Email: maharjandipika49@example.com  
+- LinkedIn: https://www.linkedin.com/in/dipika-maharjan-50b019291/
